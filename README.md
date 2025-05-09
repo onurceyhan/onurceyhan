@@ -8,4 +8,4 @@ Lately, I’ve been dealing with AI integration, prompt engineering, and backend
 You can check out my projects below.  
 Feel free to reach out if needed.
 
-📫 Contact: onurceyhan07@gmail.com
+📫 Contact: onueceyhan07@gmail.com
