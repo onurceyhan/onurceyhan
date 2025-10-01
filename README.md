@@ -32,7 +32,7 @@ I aim to keep growing as an **AI Engineer / Backend Developer** and contribute t
 - [Dev.to](https://dev.to/onur_ceyhan_2c76958adb396)  
 - 📧 onueceyhan07@gmail.com (yes onue with 'e' not 'r'.) 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurceyhan&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurceyhan&hide=jupyter,javascript,css,scss,html&theme=tokyonight)
 
 
 
