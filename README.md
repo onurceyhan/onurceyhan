@@ -30,6 +30,6 @@ I aim to keep growing as an **AI Engineer / Backend Developer** and contribute t
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/onur-ceyhan)  
 - [Dev.to](https://dev.to/onur_ceyhan_2c76958adb396)  
-- 📧 your.email@example.com  
+- 📧 onueceyhan07@gmail.com (yes onue with 'e' not 'r'.) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurceyhan&layout=compact&show_icons=true&locale=en&theme=tokyonight)
