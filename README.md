@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Onur  
 
-🎓 **Information Management student** & **AI/Backend Developer**  
+🎓 **Information Management student** & **Full Stack Developer** focused on AI 
 💻 Completed my internship at **Mantis Software**, where I worked on scalable backend systems and AI-powered applications.  
 
 ---
