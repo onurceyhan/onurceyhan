@@ -15,9 +15,9 @@
 ---
 
 ## 🏗️ Featured Projects  
-- [**Tagwise**](https://github.com/YOUR-USERNAME/tagwise) – AI-powered bookmark categorization (Django + FastAPI + OpenAI)  
-- [**Moodly**](https://github.com/YOUR-USERNAME/moodly) – Mood tracking mobile app (Flutter + FastAPI + Supabase)  
-- [**LoreNexus**](https://github.com/YOUR-USERNAME/lorenexus) – AI-enhanced worldbuilding platform (Django + Vue.js + Leaflet.js)  
+- [**Tagwise**](https://github.com/Mantis-Software-Company-Interns/tagwise) – AI-powered bookmark categorization (Django + FastAPI + OpenAI)  
+- [**Moodly**](https://github.com/onurceyhan/moodly) – Mood tracking mobile app (Flutter + FastAPI + Supabase)  
+- [**LoreNexus**](https://github.com/onurceyhan/lorenexus) – AI-enhanced worldbuilding platform (Django + Vue.js + Leaflet.js)  
 
 ---
 
@@ -28,8 +28,8 @@ I aim to keep growing as an **AI Engineer / Backend Developer** and contribute t
 ---
 
 ## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
-- [Dev.to](https://dev.to/YOUR-LINK)  
+- [LinkedIn](https://www.linkedin.com/in/onur-ceyhan)  
+- [Dev.to](https://dev.to/onur_ceyhan_2c76958adb396)  
 - 📧 your.email@example.com  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurceyhan&layout=compact&show_icons=true&locale=en&theme=tokyonight)
