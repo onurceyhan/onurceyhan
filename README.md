@@ -1,39 +1,15 @@
-# 👋 Hi, I’m Onur  
-
-🎓 **Information Management student** & **Full Stack Developer** focused on AI Integration
-
-💻 Completed my internship at **Mantis Software**, where I worked on scalable backend systems and AI-powered applications.  
-
----
-
-## 🚀 What I Do  
-- **Backend:** Django, FastAPI, Flask  
-- **AI & ML:** LangChain, RAG pipelines, OpenAI API integrations  
-- **Databases:** PostgreSQL, Supabase, Redis  
-- **Frontend:** Vanilla JS, Vue.js (early stage)  
-- **Other:** Docker, CI/CD, Git, REST API design  
-
----
-
-## 🏗️ Featured Projects  
-- [**Tagwise**](https://github.com/Mantis-Software-Company-Interns/tagwise) – AI-powered bookmark categorization (Django + LangChain)  
-- [**Moodly**](https://github.com/onurceyhan/moodly) – AI-powered Mood tracking mobile app (Flutter + FastAPI + Supabase + LangChain)  
-- [**LoreNexus**](https://github.com/onurceyhan/lorenexus) – AI-enhanced worldbuilding platform (Django + Vue.js + Leaflet.js + LangChain)  
-
----
-
-## 📈 My Goal  
-To build **scalable, intelligent systems** that solve real-world problems.  
-I aim to keep growing as an **AI Engineer / Backend Developer** and contribute to innovative products.  
-
----
-
-## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/onur-ceyhan)  
-- [Dev.to](https://dev.to/onur_ceyhan_2c76958adb396)  
-- 📧 onueceyhan07@gmail.com (yes onue with 'e' not 'r'.) 
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurceyhan&hide=jupyter%20notebook&theme=tokyonight)
+# 💫 About Me:
+🔭 I’m currently working on<br>AI-assisted backend systems, RAG pipelines, and scalable Django/FastAPI architectures.<br>Actively developing LoreNexus, an AI-enhanced worldbuilding and knowledge platform.<br><br>👯 I’m looking to collaborate on<br>AI-powered products, developer tools, and backend-heavy SaaS projects.<br>Especially systems involving LLM integration and complex data flows.<br><br>🤝 I’m looking for help with<br>Advanced ML workflows, production-grade LLM optimization, and large-scale system design.<br>Building systems that survive real users, not just demos.<br><br>🌱 I’m currently learning<br>Advanced LLM orchestration, vector databases, and AI-first system design.<br>Less hype, more engineering.<br><br>💬 Ask me about<br>Django, FastAPI, RAG pipelines, OpenAI API integrations, backend architecture,<br>and shipping AI features to production.<br><br>⚡ Fun fact<br>I prefer vanilla JavaScript over heavy frameworks<br>and design worldbuilding systems with database schemas in mind.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/onur-ceyhan/) 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=onurceyhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=onurceyhan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=onurceyhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
